@@ -1,0 +1,13 @@
+zip()
+numpy.ndarray.flatten()
+numpy.meshgrid()
+numpy.array()
+1e - 5, 1e + 5
+                     list,  tuple,    set,   Dictionary
+unordered                              y
+unchangeble                   y        y
+allow duplications.    y      y
+
+plt.figure()
+plt.axes()
+axes.scatter()

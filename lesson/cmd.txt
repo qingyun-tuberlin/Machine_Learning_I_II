@@ -1,0 +1,9 @@
+import GPG key
+gpg --import public.key
+gpg --fingerprint
+
+
+open a homework
+cd to the directory where you have your exercise
+gpg --output sheet02.zip --decrypt sheet02.zip.gpg
+unzip sheet02.zip
